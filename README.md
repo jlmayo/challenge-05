@@ -33,7 +33,7 @@ Starter code was provided for this project. CSS was already complete. I added to
 * The current date is diplayed at the top of the scheduler.
 * On scroll, you can see time blocks for standard business hours.
 * Daily time blocks are color-coded to indicate past, present, or future.
-* When the User clicks into a time block, and event (text) can be entered.
+* When the User clicks into a time block, an event (text) can be entered.
 * Clicking on the Save Button saves the event (text) in Local Storage.
 * When the page is refreshed, the saved events persist.
 
